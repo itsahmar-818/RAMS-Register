@@ -7,9 +7,9 @@
   "id": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f5ead8",
-  "theme_color": "#f5ead8",
-  "lang": "ur-PK",
+  "background_color": "#F1F4F8",
+  "theme_color": "#0A1424",
+  "lang": "en",
   "dir": "ltr",
   "categories": [
     "productivity",
