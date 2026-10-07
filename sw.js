@@ -1,6 +1,6 @@
 /* Kiraya Register — offline cache */
 /* Bump this version on every release. */
-var CACHE = "kiraya-register-v3";
+var CACHE = "kiraya-register-v4";
 var SHELL = ["./","./index.html","./manifest.webmanifest",
              "./icon-192.png","./icon-512.png","./icon-512-maskable.png","./apple-touch-icon.png"];
 

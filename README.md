@@ -18,9 +18,16 @@ All data is stored on the device that opens it. Nothing is sent to a server.
 - A twelve month grid per property shows at a glance who settles on time.
 - A WhatsApp rent reminder (or a receipt once paid) is drafted for the tenant. You send it yourself.
 
+## New in version 3.1
+
+- Same look as RAMS Electric: cream, terracotta and olive colours, Caprasimo
+  headings and Figtree text, so both apps feel like one brand.
+- Smooth animations: collection gauge and amounts count up, property rings fill,
+  the trend line draws itself, bars grow and the type donut sweeps in.
+
 ## New in version 3.0
 
-- Complete redesign: premium dark and emerald look, light and dark themes.
+- Complete redesign with light and dark themes.
 - Home: outstanding amount, collection progress, "Needs attention" list of overdue
   bills, and filters for All, Pending, Overdue and Paid. Undo after every tick.
 - Properties: search by name, tenant, phone or reference number; filter rented or
